@@ -1,0 +1,13 @@
+.table{
+    border: none;
+    margin: 2% auto;
+}
+
+table tr td{
+   border: solid black 1px;
+   padding: 40px;
+}
+
+.black{
+    background-color: black;
+}
